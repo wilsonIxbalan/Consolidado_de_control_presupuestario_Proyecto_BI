@@ -40,3 +40,10 @@ This project represents a full digital transformation within the Costs and Budge
 This project marked my transition from **Advanced Excel to Power BI**. Through self-directed learning, I designed the data architecture and overcame the challenge of homogenizing data from two different systems (SAP and Erequester), delivering successful results that are now a core operational pillar for the company.
 
 ---
+
+📄 **[View PDF / Ver PDF](controlPresupuestario/Consolidado%20de%20control%20presupuestario%20Proyecto%20BI%20Wilson%20Ixbalan.pdf)**
+
+![Dashboard Preview](controlPresupuestario/img/SUMARY1.png)
+![BSE](controlPresupuestario/img/BSE3.png)
+![CSE](controlPresupuestario/img/CSE3.png)
+
